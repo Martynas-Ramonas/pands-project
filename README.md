@@ -88,8 +88,17 @@ The notebook creates:
 
 ## References
 
-- UCI Machine Learning Repository: Iris Dataset
-- Python documentation
-- pandas documentation
-- matplotlib documentation
-- W3Schools Python file handling guide
+- UCI Machine Learning Repository. *Iris Dataset*.  
+  https://archive.ics.uci.edu/dataset/53/iris
+
+- Python Software Foundation. *Python Documentation*.  
+  https://docs.python.org/3/
+
+- pandas. *pandas Documentation*.  
+  https://pandas.pydata.org/docs/
+
+- Matplotlib. *Matplotlib Documentation*.  
+  https://matplotlib.org/stable/index.html
+
+- W3Schools. *Python File Handling*.  
+  https://www.w3schools.com/python/python_file_handling.asp
