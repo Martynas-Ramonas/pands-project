@@ -12,7 +12,7 @@ The project investigates Fisher's Iris dataset using Python. The Iris dataset co
 - `data/`  
   Contains the Iris dataset files.
 
-- `output/`  
+- `text/`  
   Contains the generated text summary file.
 
 - `images/`  
@@ -102,3 +102,14 @@ The notebook creates:
 
 - W3Schools. *Python File Handling*.  
   https://www.w3schools.com/python/python_file_handling.asp
+
+  ## AI Assistance
+
+I used ChatGPT to correct any mistakes and help with research.
+
+Prompts used:
+- "Hey, could you check my repository( https://github.com/Martynas-Ramonas/pands-project.git ) and this project description to see if everything is done correctly?"
+- "What can you tell me about this data set for research purposes?"
+- "Can you give me the main points of 'The Use of Multiple Measurements in Taxonomic Problems' and 'The Irises of the Gaspe Peninsula'  a quick easy to understand summary will do."
+
+All code was reviewed and edited by me, and I understand what each section does.
